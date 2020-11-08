@@ -1,0 +1,1 @@
+common-obj-y += opengles.o hw-pipe-net.o looper-generic.o looper-qemu.o async-utils.o sockets.o refset.o iolooper-select.o
