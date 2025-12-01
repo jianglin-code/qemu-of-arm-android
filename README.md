@@ -1,2 +1,2 @@
 # qemu-of-arm-android
-如何将android模拟器移植到android手机中
+How to port an Android emulator to an Android phone
